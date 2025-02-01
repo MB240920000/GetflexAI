@@ -4,7 +4,7 @@ const team = [
   {
     name: "Moncef Buri",
     role: "CEO & Founder",
-    image: "https://lh3.googleusercontent.com/pw/AP1GczOS9EKlBlwjK66saBTvzvRwGRTU838Zmoio8vy10HbQLe0jqBq5xB8mLQ1kA9TWPLD71IQLnEFWXhGmV15z3zTI1TDgxLUxbGZoz2Jf8-cFQ_nNsA=w2400",
+    image: "https://postimg.cc/1gjVNTfm",
     bio: "Martech Manager with +5 years experience in AI, working with companies across various industries."
   },
   {
