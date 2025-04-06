@@ -8,7 +8,7 @@ const plans = [
     name: "Basic",
     icon: Shield,
     description: "Perfect for businesses starting with AI automation",
-    price: 1500,
+    price: 2000,
     type: "One-Time Payment",
     features: [
       "CRM Lead Capture Agent",
@@ -44,7 +44,7 @@ const plans = [
     icon: Crown,
     description: "For businesses needing full-scale AI integration",
     price: 3100,
-    setupFee: 5000,
+    setupFee: 3000,
     type: "/month",
     features: [
       "Everything in Growth, plus:",
